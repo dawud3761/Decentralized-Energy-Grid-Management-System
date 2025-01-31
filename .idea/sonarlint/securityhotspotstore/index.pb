@@ -11,3 +11,5 @@ L
 tests/energy-trading.test.ts,9/c/9cba7fe1dec9bcb62306bf4705154e7113ca0c31
 S
 #contracts/renewable-energy-nft.clar,8/a/8aff41ec8423f1720ce97ae89965bba6458ef0e3
+R
+"tests/renewable-energy-nft.test.ts,1/3/13d39f6c0606dd4c15af22a1112f0b4e7cec14bc
